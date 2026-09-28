@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>Intern_Taks</artifactId>
+    <artifactId>Company-Search-Service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>Company-Search-Service</name>
