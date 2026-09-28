@@ -16,7 +16,7 @@
     <artifactId>Intern_Taks</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>Intern_Taks</name>
+    <name>Company-Search-Service</name>
     <description>Company Data Search Service</description>
 
     <properties>
